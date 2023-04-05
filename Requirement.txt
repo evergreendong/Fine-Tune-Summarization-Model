@@ -1,0 +1,5 @@
+! pip install transformers datasets
+! pip install transformers[sentencepiece]
+! pip install rouge_score
+
+import numpy as np
